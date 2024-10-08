@@ -1,2 +1,2 @@
 # SnakeGame
- REpositorio para trabalho de OO de um jogo simples snakegame
+ Repositorio para trabalho de OO de um jogo simples snakegame
