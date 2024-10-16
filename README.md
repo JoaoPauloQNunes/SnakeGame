@@ -1,2 +1,2 @@
 # SnakeGame
- Repositorio para trabalho de OO de um jogo simples snakegame
+ Repositorio para um jogo simples (snakegame) baseado na ideia de POO.
